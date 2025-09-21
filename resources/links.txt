@@ -1,0 +1,27 @@
+Links
+=====
+
+Module 0: Welcome to the Course
+-------------------------------
+- Python: https://www.python.org/
+- UV package and project manager: https://docs.astral.sh/uv/
+- LangChain Academy: https://academy.langchain.com/
+- LangChain Academy courses: https://academy.langchain.com/collections
+- LangChain Academy course "Deep Agents with LangGraph": https://academy.langchain.com/courses/deep-agents-with-langgraph
+- Deep Agents on GitHub: https://github.com/langchain-ai/deepagents
+- Deep Agents from Scratch on GitHub: https://github.com/langchain-ai/deep-agents-from-scratch
+- LangSmith: https://smith.langchain.com/ and https://docs.smith.langchain.com/
+- Context Engineering for AI Agents: Lessons from Building Manus: https://manus.im/blog/Context-Engineering-for-AI-Agents-Lessons-from-Building-Manus
+- Context Engineering Patterns: https://docs.google.com/presentation/d/16aaXLu40GugY-kOpqDU4e-S0hD1FmHcNyF0rRRnb1OU/edit?slide=id.p#slide=id.p
+- Claude Console: https://console.anthropic.com/dashboard > Get API Key
+- Tavily (search engine optimized for LLMs): https://tavily.com/
+
+Module 1: Course Overview
+-------------------------
+- Quickstart for LangGraph:
+  - Workflow Documentation: https://langchain-ai.github.io/langgraph/tutorials/workflows/
+  - Building Effective Agents (YouTube): https://www.youtube.com/watch?v=aHCDrAbH_go
+  - How to Apply Context Engineering: https://www.youtube.com/watch?v=nyKvyRrpbyY
+- Foundations for LangGraph/LangSmith:
+  - Introduction to LangGraph: https://academy.langchain.com/courses/intro-to-langgraph
+  - Introduction to LangSmith: https://academy.langchain.com/courses/intro-to-langsmith
