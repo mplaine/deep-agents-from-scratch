@@ -25,3 +25,26 @@ Module 1: Course Overview
 - Foundations for LangGraph/LangSmith:
   - Introduction to LangGraph: https://academy.langchain.com/courses/intro-to-langgraph
   - Introduction to LangSmith: https://academy.langchain.com/courses/intro-to-langsmith
+- Measuring AI ability to complete long tasks: https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/
+- How we built our multi-agent research system: https://www.anthropic.com/engineering/multi-agent-research-system
+- Context Engineering for AI Agents: Lessons from Building Manus: https://manus.im/blog/Context-Engineering-for-AI-Agents-Lessons-from-Building-Manus
+- Claude Code - Plan Mode: https://claudelog.com/mechanics/plan-mode/
+- Gemini Deep Research: https://gemini.google/overview/deep-research/
+- Open Deep Research on GitHub: https://github.com/langchain-ai/open_deep_research
+- How to fix your context: https://www.dbreunig.com/2025/06/26/how-to-fix-your-context.html
+- Ambient Agents with LangGraph: https://academy.langchain.com/courses/ambient-agents/
+- Claude Code prompt: https://cchistory.mariozechner.at/
+- Claude Code - Task/Agent Tools: https://claudelog.com/mechanics/task-agent-tools/
+- Don't Build Multi-Agents (very good resource!): https://cognition.ai/blog/dont-build-multi-agents
+- Notes on context engineering with Walden Yan: https://x.com/jxnlco/status/1945490018127987092
+- Prompting for Agents | Code w/ Claude on YouTube: https://www.youtube.com/watch?v=XSZP9GhhuAc
+- Deep Agents: https://blog.langchain.com/deep-agents/
+- Deep Agents on GitHub: https://github.com/langchain-ai/deepagents
+
+Module 2: Create Agent
+----------------------
+- ReAct: Synergizing Reasoning and Acting in Language Models (2022): https://arxiv.org/abs/2210.03629
+- Agent development using prebuilt components: https://langchain-ai.github.io/langgraph/agents/overview/
+- Get started with LangGraph Platform: https://docs.langchain.com/langgraph-platform/index
+  - LangGraph Platform consists of: LangGraph Studio, LangGraph Server, LangGraph CLI, Python/JS SDKs, Remote Graph
+- LangSmith: https://www.langchain.com/langsmith
