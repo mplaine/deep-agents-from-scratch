@@ -18,6 +18,10 @@ Module 0: Welcome to the Course
 
 Module 1: Course Overview
 -------------------------
+- Changes in October 2025
+  - LangSmith -> LangSmith Observability & LangSmith Evaluation
+  - LangGraph Platform -> LangSmith Deployment
+  - LangGraph Studio -> LangSmith Studio
 - Quickstart for LangGraph:
   - Workflow Documentation: https://langchain-ai.github.io/langgraph/tutorials/workflows/
   - Building Effective Agents (YouTube): https://www.youtube.com/watch?v=aHCDrAbH_go
@@ -48,3 +52,21 @@ Module 2: Create Agent
 - Get started with LangGraph Platform: https://docs.langchain.com/langgraph-platform/index
   - LangGraph Platform consists of: LangGraph Studio, LangGraph Server, LangGraph CLI, Python/JS SDKs, Remote Graph
 - LangSmith: https://www.langchain.com/langsmith
+- Deep Agents: https://blog.langchain.com/deep-agents/
+- LangGraph guides: https://langchain-ai.github.io/langgraph/guides/
+- LangSmith Deployment (ex LangGraph Platform): https://docs.langchain.com/langsmith/deployments
+- LangSmith Studio: https://docs.langchain.com/langsmith/studio
+- LangSmith: https://smith.langchain.com/
+
+Module 3: Todo Lists
+--------------------
+- Claude Code: Best practices for agentic coding: https://www.anthropic.com/engineering/claude-code-best-practices
+- How to manage conversation history in a ReAct Agent: https://langchain-ai.github.io/langgraph/how-tos/create-react-agent-manage-message-history/
+- Context Rot: How Increasing Input Tokens Impacts LLM Performance: https://research.trychroma.com/context-rot
+- Context Engineering for AI Agents: Lessons from Building Manus: https://manus.im/blog/Context-Engineering-for-AI-Agents-Lessons-from-Building-Manus
+
+Module 4: Files
+---------------
+- Context Engineering for AI Agents: Lessons from Building Manus: https://manus.im/blog/Context-Engineering-for-AI-Agents-Lessons-from-Building-Manus
+- Open-source DeepResearch – Freeing our search agents: https://huggingface.co/blog/open-deep-research
+- How we built our multi-agent research system: https://www.anthropic.com/engineering/multi-agent-research-system
