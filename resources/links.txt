@@ -74,3 +74,17 @@ Module 4: Files
 Module 5: Subagents
 -------------------
 - LangChain - Context Engineering: https://blog.langchain.com/context-engineering-for-agents/
+
+Module 6: Full Agent
+--------------------
+- Context Engineering for AI Agents: Lessons from Building Manus: https://manus.im/blog/Context-Engineering-for-AI-Agents-Lessons-from-Building-Manus
+- Deep Agents package: https://github.com/langchain-ai/deepagents
+
+Module 7: Conclusion
+--------------------
+- Deep Agent project repository: https://github.com/langchain-ai/deepagents
+- Implementing deepagents: a technical walkthrough: https://www.youtube.com/watch?v=TTMYJAw5tiA
+- Using deepagents to build Deep Research (Python): https://www.youtube.com/watch?v=geTtqyFnyHA
+- Deep Agents JS: https://www.youtube.com/watch?v=qMe7P8NU6BU
+- Deepagents UI: https://github.com/langchain-ai/deep-agents-ui
+- Deep Agents UI (installation and use): https://www.youtube.com/watch?v=0CE_BhdnZZI
